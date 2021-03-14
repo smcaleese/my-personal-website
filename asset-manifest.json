@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.759a19d0.chunk.css",
-    "main.js": "/static/js/main.ebd5147b.chunk.js",
-    "main.js.map": "/static/js/main.ebd5147b.chunk.js.map",
+    "main.css": "/static/css/main.f02f7c07.chunk.css",
+    "main.js": "/static/js/main.d7750b1d.chunk.js",
+    "main.js.map": "/static/js/main.d7750b1d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.3374ac37.js",
     "runtime-main.js.map": "/static/js/runtime-main.3374ac37.js.map",
-    "static/js/2.ae2a2da1.chunk.js": "/static/js/2.ae2a2da1.chunk.js",
-    "static/js/2.ae2a2da1.chunk.js.map": "/static/js/2.ae2a2da1.chunk.js.map",
+    "static/js/2.a465107b.chunk.js": "/static/js/2.a465107b.chunk.js",
+    "static/js/2.a465107b.chunk.js.map": "/static/js/2.a465107b.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.9b49a22dd8cb7068d7e149171c694cc8.js": "/precache-manifest.9b49a22dd8cb7068d7e149171c694cc8.js",
+    "precache-manifest.79a57b43ae0efbc31477cb359b9c139f.js": "/precache-manifest.79a57b43ae0efbc31477cb359b9c139f.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.759a19d0.chunk.css.map": "/static/css/main.759a19d0.chunk.css.map",
-    "static/js/2.ae2a2da1.chunk.js.LICENSE.txt": "/static/js/2.ae2a2da1.chunk.js.LICENSE.txt",
+    "static/css/main.f02f7c07.chunk.css.map": "/static/css/main.f02f7c07.chunk.css.map",
+    "static/js/2.a465107b.chunk.js.LICENSE.txt": "/static/js/2.a465107b.chunk.js.LICENSE.txt",
+    "static/media/assistant.jpg": "/static/media/assistant.89e4b6d5.jpg",
     "static/media/chitchat-updated.png": "/static/media/chitchat-updated.b617f11c.png",
     "static/media/covid-forecaster.png": "/static/media/covid-forecaster.e1b70a83.png",
     "static/media/css.png": "/static/media/css.bc339686.png",
@@ -21,7 +22,9 @@
     "static/media/js-clock.png": "/static/media/js-clock.753a5edb.png",
     "static/media/js.png": "/static/media/js.db7933e6.png",
     "static/media/logo.png": "/static/media/logo.e102e25f.png",
+    "static/media/map.jpg": "/static/media/map.3a213983.jpg",
     "static/media/node.png": "/static/media/node.6dcf6999.png",
+    "static/media/output.jpg": "/static/media/output.9b415301.jpg",
     "static/media/portrait.png": "/static/media/portrait.06a914ac.png",
     "static/media/python.png": "/static/media/python.d966e9ff.png",
     "static/media/rails.png": "/static/media/rails.f0f7bbb5.png",
@@ -31,8 +34,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.3374ac37.js",
-    "static/js/2.ae2a2da1.chunk.js",
-    "static/css/main.759a19d0.chunk.css",
-    "static/js/main.ebd5147b.chunk.js"
+    "static/js/2.a465107b.chunk.js",
+    "static/css/main.f02f7c07.chunk.css",
+    "static/js/main.d7750b1d.chunk.js"
   ]
 }
